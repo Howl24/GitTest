@@ -4,3 +4,4 @@ Initial Test
 Conflict!
 Fixed and replaced (My modify keeps muajaja)
 Foo
+Bar
